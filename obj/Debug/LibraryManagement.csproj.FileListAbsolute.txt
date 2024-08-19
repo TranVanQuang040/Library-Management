@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.LibraryManagement.resources
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.ViewBooks.resources
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\Administrator\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
